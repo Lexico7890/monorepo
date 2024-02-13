@@ -12,7 +12,7 @@ function App() {
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
-          <p>this is at vite ONE modificado nuevamente</p>
+          <p>this is at vite ONE modificado nuevamente otra ves</p>
         </a>
         <Button label='hola' margin='10px'  size='large' variant='contained'/>
       </div>
