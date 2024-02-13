@@ -12,9 +12,9 @@ function App() {
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
-          <p>this is at vite ONE</p>
+          <p>this is at vite ONE modificado </p>
         </a>
-        <Button label='hola' />
+        <Button label='hola' margin='10px'  size='large' variant='contained'/>
       </div>
       <h1>Vite + React</h1>
       <div className="card">
